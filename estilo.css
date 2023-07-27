@@ -18,6 +18,28 @@
 	margin: 10px;
 }
 
+.conteudo{
+	background: blueviolet;
+	border: 1px solid gray;
+	width: 150px;
+	height: 200px;
+	margin: 10px;
+	float: right;
+}
+
+.conteudo2{
+	background: red;
+	border: 1px solid gray;
+	width: 150px;
+	height: 150px;
+	float: left;
+	margin: 10px;
+}
+
 h2{
 	margin: 0px;
+}
+
+p{
+	clear: left;
 }

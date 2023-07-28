@@ -1,3 +1,12 @@
+#principal{
+	width: 870px;
+	border: 1px solid red;
+}
+
+#galeria{
+	background: white;
+	border: 1px solid red;
+}
 .texto{
 	color: black;
 	background: red;
@@ -12,10 +21,11 @@
 }
 
 .noticia{
-	background: gray;
-	width: 300px;
-	padding: 10px;
+	background: #e5e5e5;
+	width: 250px;
+	padding: 4px;
 	margin: 10px;
+	float: left;
 }
 
 .conteudo{
@@ -34,6 +44,24 @@
 	height: 150px;
 	float: left;
 	margin: 10px;
+}
+
+.clear{
+	clear: both;
+}
+
+.imagem{
+	background: white;
+	width: 250px;
+	margin: 10px;
+	float: left;
+	padding: 5px;
+}
+
+body{
+	background: #cccccc;
+	clear: both;
+
 }
 
 h2{
